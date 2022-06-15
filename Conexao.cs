@@ -10,7 +10,7 @@ namespace Banco
     {
         public string ObterConexao()
         {
-            return "server=localhost; database=Pizzaria; uid=root; password=C&v1608R;";
+            return "server=localhost; database=Pizzaria; uid=root; password=root;";
         }
     }
 }
